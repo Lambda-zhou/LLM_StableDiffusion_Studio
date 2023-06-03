@@ -30,7 +30,7 @@ tornado==6.1
 triton
 tqdm==4.64.1
 traitlets==5.1.1
-transformers==4.28.1
+transformers==4.21.0
 unstructured[local-inference]
 Wand==0.6.11
 xformers==0.0.18

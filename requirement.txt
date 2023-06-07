@@ -5,7 +5,7 @@ codeformer-pip==0.0.4
 controlnet-aux==0.0.3
 cpm-kernels==1.0.11
 # 替换为!git clone ...
-# detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2
+detectron2@git+https://github.com/facebookresearch/detectron2.git@v0.6#egg=detectron2
 diffusers
 faiss-cpu
 gradio==3.27.0
@@ -31,8 +31,8 @@ tornado==6.1
 triton
 tqdm==4.64.1
 traitlets==5.1.1
-transformers==4.21.0
-# transformers==4.28.1
+# transformers==4.21.0
+transformers==4.28.1
 unstructured[local-inference]
 Wand==0.6.11
 xformers==0.0.18
